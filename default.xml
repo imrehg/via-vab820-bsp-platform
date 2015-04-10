@@ -19,7 +19,7 @@
 
   <project remote="freescale" revision="dora" name="meta-fsl-arm-extra" path="sources/meta-fsl-arm-extra"/>
   <project remote="freescale" revision="dora" name="meta-fsl-demos" path="sources/meta-fsl-demos"/>
-  <project remote="freescale2" revision="dora" name="meta-fsl-bsp-release" path="sources/meta-fsl-bsp-release"/>
+  <project remote="freescale2" revision="dora_3.10.17-1.0.0_GA" name="meta-fsl-bsp-release" path="sources/meta-fsl-bsp-release"/>
 
   <project remote="ossystems" revision="dora" name="meta-browser" path="sources/meta-browser"/>
 
